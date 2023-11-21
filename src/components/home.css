@@ -1,0 +1,19 @@
+.container{
+    height: 100vh;
+    padding: 5rem;
+    box-sizing: border-box;
+}
+.banner > svg{
+    color: aliceblue;
+    font-size: 2rem;
+
+}
+
+.project{
+  width: 250px;
+  margin-bottom: 1rem;
+  transition: all 0.3s;
+}
+.project:hover{
+    transform: translateY(-8px);
+}
